@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(161,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(200,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(238,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(277,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(323,69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arman\Desktop\Project3NEW\Project3NEW\Source.cpp(374,302): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3NEW.vcxproj -> C:\Users\arman\Desktop\Project3NEW\x64\Debug\Project3NEW.exe
